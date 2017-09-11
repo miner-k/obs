@@ -32,7 +32,7 @@ def PostObject(bucketname,dirName,filePath):
     参数说明: bucketName：桶名 （必填）
     objectKey:对象名
     dirName: 如果上传的是目录，该名称是保存到OBS桶中的名称
-    
+
     file_path：上传文件路径,支持文件夹上传
     metadata：加入自定义的元数据，以便对对象进行自定义管理
     headers:附加消息头
