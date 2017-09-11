@@ -1,0 +1,6 @@
+DelObjects :
+    文本注释： Object,DeleteObjectsRequest
+    resp = TestObs.deleteObjects(bucketName=bucketname, deleteObjectsRequest=Lreq)
+
+
+
