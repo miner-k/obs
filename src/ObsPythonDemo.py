@@ -47,6 +47,7 @@ signature = 'v4'
 port = 80
 path_style = True
 
+
 '''
 函数功能：初始化连接
 函数原型： __init__(self, access_key_id, secret_access_key, is_secure=True, server=Utils.DEFAULT_HOST,
